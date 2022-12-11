@@ -4,7 +4,7 @@
 
 ```shell
 git clone https://github.com/linus-shyu/football-boom
-cd hi
+cd football-boom
 python3 hi.py
 ```
 
